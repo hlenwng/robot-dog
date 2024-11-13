@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: org.firstinspires.ftc:RobotServer:10.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.9/transforms/82b15c34f0253b24a2d8585753f47082/transformed/RobotServer-10.1.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/8.9/transforms/82b15c34f0253b24a2d8585753f47082/transformed/RobotServer-10.1.1/jars/libs/Java-WebSocket-1.4.1-20190423.174615-6.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/82b15c34f0253b24a2d8585753f47082/transformed/RobotServer-10.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/82b15c34f0253b24a2d8585753f47082/transformed/RobotServer-10.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.firstinspires.ftc/RobotServer/10.1.1/84d7b4937a498e2f349169ceb7544b390c0bdc92/RobotServer-10.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.firstinspires.ftc/RobotServer/10.1.1/fde827e7596633d050abf6baa2c6ac7ef5b2ddd9/RobotServer-10.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.firstinspires.ftc:Inspection:10.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.9/transforms/d8271b932f61c75951096c3a3f08f6c5/transformed/Inspection-10.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/d8271b932f61c75951096c3a3f08f6c5/transformed/Inspection-10.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/d8271b932f61c75951096c3a3f08f6c5/transformed/Inspection-10.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.firstinspires.ftc/Inspection/10.1.1/8c0c84c6c9518a20b5d13cc733fc80bf21806a1f/Inspection-10.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.firstinspires.ftc/Inspection/10.1.1/7eccc0dd99396fb37cc9cc04ee100019eecf3ed3/Inspection-10.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

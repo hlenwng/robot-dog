@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.firstinspires.ftc:Hardware:10.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.9/transforms/1acbf40245b66102baf32270a56d6e0e/transformed/Hardware-10.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/1acbf40245b66102baf32270a56d6e0e/transformed/Hardware-10.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/1acbf40245b66102baf32270a56d6e0e/transformed/Hardware-10.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.firstinspires.ftc/Hardware/10.1.1/6596dd29f7471e1c5c69f5c415b47d7fe31b6624/Hardware-10.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.firstinspires.ftc/Hardware/10.1.1/39787fed6bdc16a2bb8f8ee1133390674e9a7588/Hardware-10.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
